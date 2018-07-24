@@ -1,9 +1,9 @@
-## Aplicación del Clima - Curso Node
+## Aplicación del Clima - Pablo Tilotta
 
 Recuerden ejecutar ```npm install``` para las librerías
 
 ### Ejemplo:
 ```
-nore app -d "Buenos Aires, Argentina"
+node app -d "Buenos Aires, Argentina"
 
 ```
